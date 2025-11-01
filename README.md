@@ -3,7 +3,7 @@ eip: 1813
 title: HNFT – Human Non-Fungible Token Standard
 description: A standard for representing human identity and behavior data as non-fungible tokens with zero-knowledge proof support, encrypted metadata, and account abstraction integration.
 author: Gerrry Alvrz (@brahma101.eth)
-discussions-to:[ https://ethereum-magicians.org/t/eip-hnft-human-non-fungible-token-standard/12345](https://ethereum-magicians.org/t/eip-1813-hnft-human-non-fungible-token-standard/26048)
+discussions-to:https://ethereum-magicians.org/t/eip-hnft-human-non-fungible-token-standard/12345](https://ethereum-magicians.org/t/eip-1813-hnft-human-non-fungible-token-standard/26048
 status: Draft
 type: Standards Track
 category: ERC
